@@ -1,79 +1,86 @@
-#  Hi, I'm Telman Maharramov
+# Telman Maharramov
 
-> IT Systems Administrator | Network & Infrastructure Specialist
+**IT Systems Administrator | Network & Infrastructure Specialist**
 
-📍 Santa Maria de Palautordera, Barcelona  
-📧 [tmaharramov5@gmail.com](mailto:tmaharramov5@gmail.com)
- 
+Santa Maria de Palautordera, Barcelona — [tmaharramov5@gmail.com](mailto:tmaharramov5@gmail.com)
 
 ---
 
-## 💼 About Me
-IT Systems Technician with hands-on experience in network infrastructure for **large-scale international events**. Specialized in deployment, configuration, and troubleshooting in **high-density production environments**. Experienced in on-site technical support, database administration, and virtualization.  
+## About
+
+IT Systems Technician with hands-on experience in network infrastructure for large-scale international events. Specialized in deployment, configuration, and troubleshooting in high-density production environments. Experienced in on-site technical support, database administration, and virtualization.
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
-![TCP/IP](https://img.shields.io/badge/TCP-IP-blue) 
-![VLAN](https://img.shields.io/badge/VLAN-yellow) 
-![DHCP](https://img.shields.io/badge/DHCP-orange) 
-![WiFi 5/6/6E/7](https://img.shields.io/badge/WiFi-5/6/6E/7-lightgrey)
-![OSPF/RIP](https://img.shields.io/badge/OSPF-RIP-green)
-![SQL](https://img.shields.io/badge/SQL-blue)
-![Linux](https://img.shields.io/badge/Linux-red)
-![Windows](https://img.shields.io/badge/Windows-lightblue)
-![HTML/CSS](https://img.shields.io/badge/HTML/CSS-purple)
-![Git](https://img.shields.io/badge/Git-GitHub-black)
-
----
-
-## 🚀 Work Experience
-
-### IT Field Technician – Mobile World Congress (MWC) & ISE 2026
-**2026**  
-- Deployed and troubleshot network infrastructure for high-density events  
-- On-site support for exhibitors & corporate clients  
-- Configured wired/wireless networks, point-to-point connections, and monitored WiFi coverage  
-- Coordinated with Network Operations & Cabling teams  
-
-**Tech Stack:** TCP/IP, VLAN, DHCP, NAT, VPN, OSPF/RIP, WiFi 5/6/6E/7, PoE, Layer 1-3 Troubleshooting, Network Security  
-
-### Waiter Assistant – De-Picnic Catering
-**3 years**  
-- Customer service at events, food preparation & teamwork  
+| Area | Technologies |
+|------|-------------|
+| Networking | TCP/IP, VLAN, DHCP, NAT, VPN, OSPF, RIP, LAN/WAN, PoE, Multicast |
+| Wireless | WiFi 5 / 6 / 6E / 7, RF analysis, coverage monitoring |
+| Troubleshooting | Layer 1–3 diagnostics, patch panels, switches, routers, cabling |
+| Systems | Windows Server, Linux, Ubuntu, VirtualBox |
+| Development | HTML, CSS, SQL, MySQL, Git |
+| Tools | Cisco Packet Tracer, ipconfig, ping, iperf, netsh, tracert |
+| Hardware | PC assembly, maintenance, component diagnostics |
 
 ---
 
-## 🎓 Education
-- **CFGS** - Network Systems Administration (ASIR)  
-- **IFP** - Innovation in Vocational Training | In Progress  
+## Work Experience
+
+### IT Field Technician — Mobile World Congress (MWC) & ISE 2026
+
+*2026*
+
+- Deployed and troubleshot network infrastructure for high-density international events
+- Configured wired and wireless networks, point-to-point connections (Booth-to-Booth, WiFi-to-LAN)
+- Managed service cabling, IP addressing (public/static IPs, DHCP), and Internet access validation
+- Monitored WiFi coverage, channel interference, rogue access points, and connection speeds
+- Provided on-site technical support for exhibitors and corporate clients in English
+- Coordinated with Team Leaders, Network Operations, and cabling teams to resolve incidents
+
+**Environment:** TCP/IP, VLAN, DHCP, NAT, VPN, OSPF/RIP, WiFi 5/6/6E/7, PoE, Layer 1–3 Troubleshooting, Network Security
+
+### Waiter Assistant — De-Picnic Catering
+
+*3 years*
+
+- Customer service at events, food preparation and service, teamwork in dynamic environments
 
 ---
 
-## 🌐 Languages
+## Education
+
+**Higher Degree — Network Systems Administration/Cybersecurity (ASIX)**
+IFP — Innovation in Professional Training | In progress
+
+---
+
+## Languages
+
 | Language | Level |
 |----------|-------|
 | Turkish | Native |
 | Azerbaijani | Native |
-| Spanish | Native |
-| Catalan | Fluent |
-| English | Fluent |
+| Spanish | C1 |
+| Catalan | B2 |
+| English | B2 |
 
 ---
 
-## 📂 Projects
+## Projects
 
 | Project | Description |
 |---------|-------------|
-| Network Infrastructure Deployment | Deployed network for MWC & ISE events with thousands of users |
-| Computer Assembly | Built & optimized computer systems |
-| SQL Subqueries & Data Analysis | Advanced database analysis |
-| Sales System SQL | SQL-based sales system |
-| WiFi Coverage & Monitoring | Monitored coverage, interference & rogue APs |
+| WiFi Coverage & Monitoring (MWC/ISE) | Real-world WiFi monitoring — tracked channel interference, rogue APs, and signal quality across high-density halls |
+| Sales Management System (SQL) | Relational database in MySQL with inventory, customer records, and order tracking |
+| Cisco Packet Tracer Labs | Progressive network labs covering static routing, VLAN trunking, STP, NAT/PAT, and ACLs |
+| Network Infrastructure Deployment | Deployed full network services for MWC & ISE events with thousands of concurrent users |
 
 ---
 
-## 🔗 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-@tmhrrmv-black?style=flat-square&logo=github)](https://github.com/tmhrrmv)  
-[![Email](https://img.shields.io/badge/Email-tmaharramov5@gmail.com-red?style=flat-square&logo=gmail)](mailto:tmaharramov5@gmail.com)
+## Contact
+
+- **Email:** [tmaharramov5@gmail.com](mailto:tmaharramov5@gmail.com)
+- **GitHub:** [github.com/tmhrrmv](https://github.com/tmhrrmv)
+- **Location:** Santa Maria de Palautordera, Barcelona
